@@ -1,0 +1,52 @@
+button{
+    border: none white;
+}
+.nn{
+    margin-left: 54vw;
+}
+.nt{
+    margin-left: 1vw;
+}
+.logo{
+    width: 150px;
+    display: block;
+}
+.text{
+    background-color: rgb(12, 160, 111);
+    color: rgb(181, 181, 181);
+    width: 99vw;
+    height: 90vh;
+}
+.er{
+    padding-top: 35vh;
+    padding-left: 10vw;
+}
+.loinks > a{
+    text-decoration: none;
+    color: gray;
+}
+.car-text{
+    color: rgb(255, 255, 255);
+    margin-top: -17vw;
+    margin-left: 7vw;
+}
+.car-text2{
+    color: white;
+    margin-top: -5vw;
+    margin-left: 2vw
+}
+h3{
+  font-family: "Oswald", sans-serif;
+}
+h1{
+    font-family: "Oswald", sans-serif;
+}
+.gt{
+    margin-top: 21vw;
+}
+.gtt{
+    margin-top: 21vw;
+}
+.gttt{
+    margin-top: 21vw;
+}
